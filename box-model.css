@@ -1,0 +1,10 @@
+.name {
+    height: 50px;
+    width: 50px;
+    color: blue;
+    margin: 50px 50px 50px 50px;
+    background-image: url(https://imgv3.fotor.com/images/slider-image/A-clear-close-up-photo-of-a-woman.jpg);
+    background-repeat: round;
+    padding: 50px 50px 50px 50px;
+    border-radius: 80px 80px 5px 80px;
+}
