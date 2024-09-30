@@ -1,0 +1,43 @@
+.main {
+    border: 1px dashed black;
+    height: 300vh;
+    width: 300vw;
+    display: block;
+}
+.box1 {
+    border: 2px solid black;
+    width: 200px;
+    height: 100px;
+    overflow: hidden;
+    margin: 20px;
+
+}
+.box2 {
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    overflow: scroll;
+    margin: 20px;
+
+}
+.box3 {
+    border: 1px solid black;
+    height: 140px;
+    width: 200px;
+    overflow: auto;
+    margin: 20px;
+}  
+.box4 {
+    border: 1px splid black;
+    height: 100px;
+    width: 200px;
+    overflow-x: auto;
+    margin: 20px;
+}
+.text {
+    height: 200px;
+    width: 300px;
+}
+.contain {
+    display: inline-block;
+}
