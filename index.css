@@ -1,0 +1,47 @@
+.container {
+    border: 2px solid grey;
+    width: 500px;
+    margin: 10px 0 0 500px;
+    border-radius: 10px;
+    padding: 10px 20px;
+    background-color: black;
+    color: aliceblue;
+}
+.button {
+    margin-left: 180px;
+    border-radius: 10px;
+    padding: 5px 20px;
+    background-color: red;
+    font-size: 20px;
+    font-weight: bold;    
+}
+.head-bar {
+    background:linear-gradient(130deg, red, yellow);
+    border: 2px dashed;
+    height: 280px;
+    width: 500px;
+    margin: 100px 0 0 520px;
+}
+.logo {
+    border: 2px solid rgb(54, 20, 20);
+    border-radius: 10px;
+    height: 60px;
+    width: 60px;
+    margin: 10px 0 0 215px;
+}
+.webmasterlogo {
+    height: 60px;
+    width: 60px;
+    border-radius: 10px;
+}
+.title {
+    margin: 15px 0 0 165px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.about {
+    margin: 20px 0 0 10px;
+    padding: 5px 0 0 5px;
+    font-size: 20px;
+    font-weight: 500;
+}
