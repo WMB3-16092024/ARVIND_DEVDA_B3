@@ -1,0 +1,22 @@
+
+.container {
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px; 
+
+    div {
+        margin: 10px;
+        height: 50px;
+        width: 150px;
+        border: 1px solid black;
+        background-image: linear-gradient(red, orange, rgb(64, 64, 145), rgb(160, 160, 38));
+        position: relative;
+    }
+}
+div-1 {
+    border-radius: 5px dashed;
+    position: absolute;
+}
