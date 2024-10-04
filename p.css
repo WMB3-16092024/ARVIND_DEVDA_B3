@@ -1,0 +1,71 @@
+.nav-bar {
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 700px;
+    margin-left: 200px;
+    margin-top: -50px;
+    padding: 10px;
+    font-weight: 800px;
+    background-color: black;
+    color: #faebd7;
+    position: fixed;
+     
+}
+.button {
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-left: 400px;
+    font-weight: bold;
+    background-color: rgb(30, 189, 16);
+    padding: 7PX;
+}
+.bar {
+    margin-left: 8px;
+
+}
+.text {
+    margin: 100px;
+    padding: 50px;
+
+    color: brown;
+}
+.text-1 {
+    margin: 100px;
+    padding: 50px;
+    color: brown;
+    
+}
+.text-2 {
+    margin: 100px;
+    padding: 50px;
+    color: brown;
+}
+.text-3 {
+    margin: 100px;
+    padding: 50px;
+    position: sticky;
+    top: 50px;
+    color: aqua;
+}
+.text-4 {
+    margin: 100px;
+    padding: 50px;
+    color: brown;
+}
+.text-5 {
+    margin: 100px;
+    padding: 50px;
+    color: brown;
+}
+.text-6 {
+    margin: 100px;
+    padding: 50px;
+    color: brown;
+}
+.image {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    
+}
