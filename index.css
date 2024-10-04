@@ -1,0 +1,43 @@
+.container {
+    border: 2px solid black;
+    height: 900px;
+    width: 900px;
+    
+}
+.Box-1 {
+    height: 200px;
+    width: 300px;
+    background-color: red;
+    position: absolute;
+    top: 436px;
+    left: 320px;
+    z-index: 4;
+
+}
+.Box-2 {
+    height: 200px;
+    width: 300px; 
+    background-color: green;
+    position: absolute;
+    top: 460px;
+    left: 350px;
+    z-index: 3;
+}
+.Box-3 {
+    height: 200px;
+    width: 300px;
+    background-color: yellow;
+    position: absolute;
+    top: 480px;
+    left: 370px;
+    z-index: 2;
+}
+.Box-4 {
+    height: 200px;
+    width: 300px;
+    background-color: blue;
+    position: absolute;
+    top: 500px;
+    left: 390px;
+    z-index: 1;
+}
